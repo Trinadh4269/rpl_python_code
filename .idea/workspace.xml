@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="792ba2fd-7403-46af-9558-134842d828b6" name="Changes" comment="pythonapplication">
+    <list default="true" id="792ba2fd-7403-46af-9558-134842d828b6" name="Changes" comment="loops added">
+      <change afterPath="$PROJECT_DIR$/looping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiple operations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop.py" afterDir="false" />
     </list>
@@ -23,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Trinadh4269"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Trinadh4269&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Trinadh4269/rpl_python_code",
-    "accountId": "59ec610e-174e-4323-97fc-daeddb5bfcc4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Trinadh4269/rpl_python_code&quot;,
+    &quot;accountId&quot;: &quot;59ec610e-174e-4323-97fc-daeddb5bfcc4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2hzhExOFZ6wPYgGWIRweEZIg7ox" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,7 +48,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.loop.executor": "Debug",
+    "Python.loop.executor": "Run",
+    "Python.looping.executor": "Run",
+    "Python.multiple operations.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -91,11 +95,54 @@
       <option name="project" value="LOCAL" />
       <updated>1718603322389</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pythonapplication">
+      <option name="closed" value="true" />
+      <created>1718603532125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718603532125</updated>
+    </task>
+    <task id="LOCAL-00005" summary="loops added">
+      <option name="closed" value="true" />
+      <created>1718603650949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718603650949</updated>
+    </task>
+    <task id="LOCAL-00006" summary="loops added">
+      <option name="closed" value="true" />
+      <created>1718603706769</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718603706769</updated>
+    </task>
+    <task id="LOCAL-00007" summary="loops added">
+      <option name="closed" value="true" />
+      <created>1718603767605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718603767605</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pythonapplication" />
-    <option name="LAST_COMMIT_MESSAGE" value="pythonapplication" />
+    <MESSAGE value="loops added" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loop.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
